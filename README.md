@@ -14,6 +14,7 @@
 * Total number of unpaid 5-star ratings are 13668
 * Percentage of Vine reviews that were 5-stars is 55.60%
 * Percentage of unpaid reviews that were 5-stars is 46.41%
+
 ![Number_of_Vine_reviews](Resources/paid_reviews.PNG) ![Number_of_unpaid_reviews](Resources/unpaid_reviews.PNG)
 ![Percentage_of_Vine_5star_ratings](Resources/percent_paid_5stars.PNG) ![Percentage_of_unpaid_5star_ratings](Resources/percent_unpaid_5stars.PNG)
 
